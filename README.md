@@ -1,3 +1,5 @@
+
+测试用的，别下。
 ipq6000系列固件分享:  
 
 固件下载请去telegram频道，https://t.me/ipq6000_romshare
